@@ -1,4 +1,4 @@
-# scenario4
+# Scenario4
 
 #Put Polygon Point
 In py/polygon file, put in points in the format :
