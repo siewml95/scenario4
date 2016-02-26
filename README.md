@@ -11,7 +11,5 @@ In Second Terminal , cd py && python main.py polygon <br />
 Go to browser and insert URL localhost:3000 <br />
 
 #Inspiration & Resources
-https://github.com/anshul35/Art-Gallery-Simulation <br />
 https://github.com/hexahedria/math_198o_gallery <br />
-https://github.com/chaitan94/2d-visibility-optimization <br />
 
