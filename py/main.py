@@ -1,5 +1,4 @@
 import time
-import pygame
 from sys import argv
 from shapes import *
 
